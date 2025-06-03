@@ -15,6 +15,6 @@ case $choice in
        exit 0
        ;;
     
-    
+echo "Hello this is chinmay"
 esac
 done
