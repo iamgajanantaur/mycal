@@ -1,6 +1,16 @@
 #!/bin/bash
+
 echo "shreyash"
+
 echo "Jayesh"
+
+
+echo "HELLO DITISSSSSSSSSS"
+echo "HELLO SUNBEAM"
+
+echo "hello from Navnath "
+
+
 read -p "Enter first number: " num1
 read -p "Enter second number: " num2
 while true; do
@@ -14,6 +24,6 @@ case $choice in
        exit 0
        ;;
     
-    
+echo "Hello this is chinmay"
 esac
 done
