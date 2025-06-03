@@ -8,7 +8,7 @@ while true; do
 echo "---- Menu ----"
 echo "0. Exit"
 echo "--------------"
-
+echo "SANKALP did this"
 read -p "Enter choice: " choice
 case $choice in
     0) echo "Exiting..."
