@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo "hello from Navnath "
+
 read -p "Enter first number: " num1
 read -p "Enter second number: " num2
 while true; do
